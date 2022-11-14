@@ -1,1 +1,0 @@
-print ("shahariar newaz taki")
